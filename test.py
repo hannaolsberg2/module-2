@@ -39,3 +39,7 @@
 1,2,3,4,5,6,7,8,9,10
 for i in range(1,11):
     print(i ** 2)
+    
+s = input()
+for letters in s:
+    print(letters)
